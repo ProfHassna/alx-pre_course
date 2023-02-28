@@ -1,2 +1,2 @@
-[A[A[A[B[B[B#!/bin/bash
-echo "School"
+#!/bash/bin \n
+echo "The school is open!"
