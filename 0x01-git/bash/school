@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-#!/bash/bin \n
-echo "The school is open!"
-=======
-#!/bin/bash \n
-echo "Rhe school is open!"
-[A[C[C[C[C[C[C[T[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
->>>>>>> 5cde835b719daf4da4e4768d356905c310674453
+#!/bash/bin
+#echo "The school is open!'
